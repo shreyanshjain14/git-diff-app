@@ -44,8 +44,8 @@ npm run start:frontend
 at root of project
 The application will be available at [http://localhost:3000](http://localhost:3000).
 
-### 6. EResults
-- open the link consisting of ownername, repo, and commitId Ex: `http://localhost:3000/repositories/golemfactory/clay/commit/a1bf367b3af680b1182cc52bb77ba095764a11f9` to view the results you can also navigate to parent commit history as well by clicking on Parent link.
+### 6. Results
+- Open the link consisting of ownername, repo, and commitId Ex: `http://localhost:3000/repositories/golemfactory/clay/commit/a1bf367b3af680b1182cc52bb77ba095764a11f9` to view the results you can also navigate to parent commit history as well by clicking on Parent link.
 
 ---
 
