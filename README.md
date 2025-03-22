@@ -30,7 +30,7 @@ PORT=5000
 
 ### 4. ⚡ Start the Server
 ```bash
-npm run "start:backend"
+npm run start:backend
 ```
 at root of the project
 The server will be available at [http://localhost:5000](http://localhost:5000).
