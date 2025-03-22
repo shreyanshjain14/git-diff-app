@@ -1,0 +1,14 @@
+{
+  "name": "git-diff-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start:frontend": "npm run start --prefix frontend",
+    "start:backend": "npm run dev --prefix backend",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "build": "npm run build --prefix frontend",
+    "install:all": "npm install --prefix frontend && npm install --prefix backend"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
